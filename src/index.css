@@ -1,0 +1,21 @@
+input{
+  font-size: 40px;
+}
+button{
+  font-size: 30px;
+  padding: 5px;
+  background-color: red;
+}
+#word{
+  border: none;
+  margin-left: 30px;
+  color: 
+}
+#data{
+  display: flex;
+  flex-wrap: wrap;
+  justify-items: auto;
+}
+.child{
+  margin-left: 200px;
+}
